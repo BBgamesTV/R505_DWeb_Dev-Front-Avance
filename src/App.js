@@ -6,6 +6,7 @@ import CheckLike from "./composant/CheckLike";
 import Myform from "./composant/Myform";
 import Form8 from "./composant/Form8";
 import Artistes from "./composant/Artistes";
+import ShoppingList from "./composant/ShoppingList";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Myform />
       <Form8 />
       <Artistes />
+      <ShoppingList />
     </div>
   );
 }
