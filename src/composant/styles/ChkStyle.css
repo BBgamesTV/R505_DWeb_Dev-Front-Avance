@@ -1,0 +1,13 @@
+.like-container {
+    gap: 1px;
+    margin-top: 2em;
+}
+.like-container h2 {
+    margin: 0;
+}
+
+.like-container input[type="checkbox"] {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
